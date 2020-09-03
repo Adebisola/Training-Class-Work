@@ -1,0 +1,40 @@
+<style>
+    h1 {
+        text-align:center;
+        height:55px;
+        color:blueviolet;
+        font-style:cambria;
+    }
+    h2 {
+        color:maroon;
+    }
+    p {
+        text-align:justify;
+        color:darkblue;
+    }
+    .links
+    {
+        text-align: right;
+        opacity:7;
+    }
+    .fullCard
+    {
+        width: 250px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin: 10px 5px;
+      padding: 4px;
+    }
+    .cardContent
+    {
+        padding:18px;
+    }
+    .cardText
+    {
+        margin-bottom: 25px;
+    }
+    img
+    {
+        width: 200px;
+    }
+</style>
