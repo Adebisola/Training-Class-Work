@@ -1,9 +1,7 @@
-<style>
-    h1 {
+h1 {
         text-align:center;
         height:55px;
-        color:blueviolet;
-        font-style:cambria;
+        color: brown;
     }
     h2 {
         color:maroon;
@@ -37,4 +35,3 @@
     {
         width: 200px;
     }
-</style>
